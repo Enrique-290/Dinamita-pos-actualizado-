@@ -1,0 +1,1 @@
+// Configuración real de Firebase iría aquí (oculta por seguridad)
